@@ -1,9 +1,3 @@
-
-
-
-x=1
-y=2
-print (x+y)
 import streamlit as st
 import time
 
